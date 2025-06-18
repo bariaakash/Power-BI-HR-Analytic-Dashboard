@@ -1,3 +1,4 @@
 # Power-BI-HR-Analytic-Dashboard
 Power-BI HR Analytic Dashboard
-![HR Dashboard](https://github.com/bariaakash/Power-BI-HR-Analytic-Dashboard/blob/main/Hr%20Analytics%20Dashboard)
+
+![HR](https://github.com/user-attachments/assets/dcddac58-6944-4095-a5d8-196b7b49589c)
